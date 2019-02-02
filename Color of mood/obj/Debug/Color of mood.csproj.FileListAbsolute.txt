@@ -1,0 +1,7 @@
+C:\git\Color of mood\Color of mood\bin\Debug\Color of mood.exe.config
+C:\git\Color of mood\Color of mood\bin\Debug\Color of mood.exe
+C:\git\Color of mood\Color of mood\bin\Debug\Color of mood.pdb
+C:\git\Color of mood\Color of mood\obj\Debug\Color of mood.csprojAssemblyReference.cache
+C:\git\Color of mood\Color of mood\obj\Debug\Color of mood.csproj.CoreCompileInputs.cache
+C:\git\Color of mood\Color of mood\obj\Debug\Color of mood.exe
+C:\git\Color of mood\Color of mood\obj\Debug\Color of mood.pdb
